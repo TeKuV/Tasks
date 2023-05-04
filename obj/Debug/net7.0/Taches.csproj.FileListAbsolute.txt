@@ -1,0 +1,15 @@
+D:\Projets\c#\learning\Taches\bin\Debug\net7.0\Taches.exe
+D:\Projets\c#\learning\Taches\bin\Debug\net7.0\Taches.deps.json
+D:\Projets\c#\learning\Taches\bin\Debug\net7.0\Taches.runtimeconfig.json
+D:\Projets\c#\learning\Taches\bin\Debug\net7.0\Taches.dll
+D:\Projets\c#\learning\Taches\bin\Debug\net7.0\Taches.pdb
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.csproj.AssemblyReference.cache
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.AssemblyInfoInputs.cache
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.AssemblyInfo.cs
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.csproj.CoreCompileInputs.cache
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.dll
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\refint\Taches.dll
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.pdb
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\Taches.genruntimeconfig.cache
+D:\Projets\c#\learning\Taches\obj\Debug\net7.0\ref\Taches.dll
