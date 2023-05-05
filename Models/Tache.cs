@@ -1,4 +1,4 @@
-namespace Taches.Models
+namespace Tasks.Models
 {
     class Tache
     {

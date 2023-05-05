@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JIqMuMPd4Rahn1SB0db5i1Fxkme0cAZXcBmCYgmaW3NEaJTVqUO3myk5KGBvKgJyGiTxPiz16n6zlpZhj2qB5Q==",
+  "dgSpecHash": "JLF2xhLzS6Q6TGAJdV8HWCrplRXxZ36kRfn6pmbIahmS/X6wFdulVLAQhNx1O4ZimTWzfSyvetxiIK9bBk6hBA==",
   "success": true,
-  "projectFilePath": "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj",
+  "projectFilePath": "D:\\Projets\\c#\\learning\\Tasks\\Taches.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

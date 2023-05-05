@@ -1,10 +1,20 @@
-namespace Taches.Models
+namespace Tasks.Models
 {
     class User
     {
-        string username{ get; set; } = "";
+        string username;
+        public string Username
+        {
+            get { return username; }
+            set { username = value; }
+        }
 
-        string password { get; set; } = "";
+        string password;
+        public string Password
+        {
+            get { return password; }
+            set { password = value; }
+        }
 
         public User(string username, string password)
         {

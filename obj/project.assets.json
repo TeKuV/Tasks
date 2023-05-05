@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj",
+      "projectUniqueName": "d:\\Projets\\c#\\learning\\Tasks\\Taches.csproj",
       "projectName": "Taches",
-      "projectPath": "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj",
+      "projectPath": "d:\\Projets\\c#\\learning\\Tasks\\Taches.csproj",
       "packagesPath": "C:\\Users\\teuga\\.nuget\\packages\\",
-      "outputPath": "D:\\Projets\\c#\\learning\\Taches\\obj\\",
+      "outputPath": "d:\\Projets\\c#\\learning\\Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\teuga\\AppData\\Roaming\\NuGet\\NuGet.Config",

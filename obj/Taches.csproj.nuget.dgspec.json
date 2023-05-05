@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj": {}
+    "D:\\Projets\\c#\\learning\\Tasks\\Taches.csproj": {}
   },
   "projects": {
-    "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj": {
+    "D:\\Projets\\c#\\learning\\Tasks\\Taches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj",
+        "projectUniqueName": "D:\\Projets\\c#\\learning\\Tasks\\Taches.csproj",
         "projectName": "Taches",
-        "projectPath": "D:\\Projets\\c#\\learning\\Taches\\Taches.csproj",
+        "projectPath": "D:\\Projets\\c#\\learning\\Tasks\\Taches.csproj",
         "packagesPath": "C:\\Users\\teuga\\.nuget\\packages\\",
-        "outputPath": "D:\\Projets\\c#\\learning\\Taches\\obj\\",
+        "outputPath": "D:\\Projets\\c#\\learning\\Tasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teuga\\AppData\\Roaming\\NuGet\\NuGet.Config",
