@@ -2,19 +2,15 @@ namespace Tasks.Models
 {
     class User
     {
+
+        int id;
+        public int Id { get => id;set => id = value; }
+
         string username;
-        public string Username
-        {
-            get { return username; }
-            set { username = value; }
-        }
+        public string Username { get => username; set => username = value; }
 
         string password;
-        public string Password
-        {
-            get { return password; }
-            set { password = value; }
-        }
+        public string Password { get => password; set => password = value; }
 
         public User(string username, string password)
         {
@@ -45,5 +41,14 @@ namespace Tasks.Models
         }
 
         public static bool login(string username, string password) =>  username == "User" && password == "1234" ? true : false;
+
+        // Create a new user
+        public static User create(string username, string password)
+        {
+            // insert username and password into database
+            // code ....
+
+            return new User(username, password);
+        }
     }
 }

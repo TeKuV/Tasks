@@ -6,7 +6,8 @@ namespace Tasks.Views
     {
         public static int display()
         {
-            Console.WriteLine("\n---------Welcome to Home-------------\n");
+            Console.Clear();
+            Console.WriteLine("\n--------- Home -------------\n");
 
             Console.WriteLine("1- Display list of task \n");
             Console.WriteLine("2- Create new task \n");
@@ -25,7 +26,6 @@ namespace Tasks.Views
             }
 
             return choice;
-
         }
     }
 }
