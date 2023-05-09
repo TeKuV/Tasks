@@ -6,7 +6,7 @@ namespace Tasks.Views.Auth
         {
             Console.Clear();
             Console.Beep(440, 1000);
-            Console.WriteLine("Authentication failed ! Try again... \nPress Enter to continue");
+            Console.Write("Authentication failed ! Try again... \nPress Enter to continue...");
             Console.ReadLine();
         }
     }

@@ -16,12 +16,12 @@ namespace Tasks.Controllers
                 {
                     case 1:
                         TaskIndex.display(user);
-
-                        Continue.display(); // display message : "Press any key to continue..."
-                        HomeController.app(user);
                         break;
                         
                     case 2:
+                        break;
+
+                    case 3:
                         break;
 
                     default:
@@ -30,6 +30,9 @@ namespace Tasks.Controllers
 
                         break;
                 };
+
+                Continue.display(); // display message : "Press any key to continue..."
+                HomeController.app(user);
             }
             else // User is not logged in
             {
